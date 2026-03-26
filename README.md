@@ -3,6 +3,8 @@
 Ett REST API byggt med Hapi.js och SQLite för att hantera todo-objekt och skapa en "att göra"-lista. 
 Webbtjänsten stödjer CRUD-funktionalitet (Create, Read, Update, Delete) med hjälp av metod och endpoints. 
 
+**Länk till publicerat API:** [https://labb2-backend.onrender.com/api/todos](https://labb2-backend.onrender.com/api/todos)
+
 ## Verktyg
 - Node.js
 - Hapi.js
@@ -13,7 +15,6 @@ Webbtjänsten stödjer CRUD-funktionalitet (Create, Read, Update, Delete) med hj
 1. **Klona repot:**
 ```bash
 git clone https://github.com/rare2400/labb2-backend.git
-cd todo-list
 ```
 
 2. **Installera beroenden:**
