@@ -11,7 +11,7 @@ const init = async () => {
 
     // creating new Hapi-server with port from .env and host, allow cors
     const server = Hapi.server({
-        port: process.env.PORT || 5000,
+        port: process.env.PORT || 3000,
         host: "localhost",
         routes: {
             cors: { origin: ["*"] },
